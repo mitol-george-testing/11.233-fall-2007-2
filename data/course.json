@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "46194c03-6363-6120-8b6a-349d4856558d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Research Design for Policy Analysis and Planning",
+  "course_description": "This course develops skills in research design for policy analysis and planning. The emphasis is on the logic of the research process and its constituent elements. The course relies on a seminar format so students are expected to read all of the assigned materials and come to class prepared to discuss key themes, ideas, and controversies. Since the materials draw broadly on the social sciences, and since students have diverse interests and methodological preferences, ongoing themes in our discussions will be linking concepts to planning scholarship in general and considering how different epistemological orientations and methodological techniques map on to planning specializations.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.233",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
